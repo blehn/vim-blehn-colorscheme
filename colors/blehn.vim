@@ -1,10 +1,10 @@
 " Vim color scheme
 "
-" Name:         blackboard.vim
-" Maintainer:   Ben Wyrosdick <ben.wyrosdick@gmail.com> 
-" Last Change:  20 August 2009
+" Name:         blehn.vim
+" Maintainer:   Ben Lehn <ben.lehn@gmail.com> 
+" Last Change:  28 October 2013
 " License:      public domain
-" Version:      1.4
+" Version:      .5 
 
 set GUI=NONE
 set background=dark
@@ -13,7 +13,7 @@ if exists("syntax_on")
    syntax reset
 endif
 
-let g:colors_name = "blackboard"
+let g:colors_name = "blehn"
 
 
 if has("gui_running")
